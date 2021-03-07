@@ -1,0 +1,42 @@
+.game-grid-box{
+    background: rgb(32, 6, 92);
+    border: 1px solid red;
+    float: left;
+    font-size: 2em;
+    font-weight: bold;
+    height: 2em;
+    width: 2em;
+    text-align: center;
+    color: red;
+    
+}
+.game-grid{
+    display: table;
+    
+}
+
+.game {
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+
+.game-h1{
+    color: white;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.game-buttons {
+    display: flex;
+}    
+
+.game-button {
+    margin-right: .5em;
+    margin-left: .5em;   
+}
+
+.audio-source{
+    margin-top: 1em;
+}
