@@ -13,10 +13,6 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/VetoFTW/tick-tack-toe-js.git"
-},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
